@@ -8,4 +8,5 @@ rm -rf node_modules
 rm -rf build
 
 #Install_node_modules_&_Make_React_Build
-pm2 start App.js
+npm install 
+npm run ng build
